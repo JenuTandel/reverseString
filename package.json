@@ -1,0 +1,16 @@
+{
+  "name": "rs-string-123",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "product-preview": "^1.0.0",
+    "rs-string-123": "^1.0.0",
+    "trial_product_preview": "^1.0.0"
+  }
+}
